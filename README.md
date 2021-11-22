@@ -1,4 +1,4 @@
-This is a group of tools that I use to create project or just praticing exercises. Feel free to use, but if you wanna learn more just follow this readme.
+This is a group of tools that I use to create project or just praticing exercises.
 
 # What Tools Has Here
 
