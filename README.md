@@ -7,16 +7,22 @@ This is a group of tools that I use to create project or just praticing exercise
 - [typescript](https://www.typescriptlang.org/)
 - [google-fonts](https://fonts.google.com/)
 - [react-icons](https://react-icons.github.io/react-icons)
+- [eslint](https://eslint.org/)
+- [prettier](https://prettier.io/)
 
 # Extensions for VSCode
 
 Really recommended
+
 - Tailwind CSS InteliSense
+- Prettier
+- ESLint
 
 Install if you like it
+
 - Material Icon Theme
-- PostCSS Language Support | *This avoid global.css error message*
-- Dracula Official | *I love this theme*
+- PostCSS Language Support | _This avoid global.css error message_
+- Dracula Official | _I love this theme_
 
 # Requirements
 
