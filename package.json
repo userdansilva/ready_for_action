@@ -1,5 +1,5 @@
 {
-  "name": "ready_for_action",
+  "name": "cod3r_course",
   "private": true,
   "scripts": {
     "dev": "next dev",
